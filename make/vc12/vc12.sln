@@ -18,7 +18,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test8", "test\test8.vcxproj
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test9", "test\test9.vcxproj", "{F294A3C5-D355-49E7-A8B8-B9692345A5E0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libmatroskadll", "lib\dll\libmatroskadll.v12.vcproj", "{B227AC03-C69E-46B1-B91E-A77BE4C6F83A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libmatroskadll", "lib\dll\libmatroskadll.v12.vcxproj", "{B227AC03-C69E-46B1-B91E-A77BE4C6F83A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
